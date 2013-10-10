@@ -1,0 +1,11 @@
+{
+	"name":         "lz4-d",
+	"description":  "D Binding to the Fast LZ Compression Algorithm",
+	"homepage":     "http://fastcompression.blogspot.com/p/lz4.html",
+	"copyright":    "Copyright © 2011-2013, Yann Collet",
+	"authors": [
+		            "Yann Collet"
+	],
+	"dependencies": {
+	}
+}

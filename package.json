@@ -8,6 +8,7 @@
 	],
 	"importPaths": ["."],
 	"libs":["lz4"],
+	"targetType": "sourceLibrary",
 	"dependencies": {
 	}
 }

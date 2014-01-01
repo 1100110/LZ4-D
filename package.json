@@ -4,8 +4,11 @@
 	"homepage":     "http://fastcompression.blogspot.com/p/lz4.html",
 	"copyright":    "Copyright © 2011-2013, Yann Collet",
 	"authors": [
-		            "Yann Collet"
+		"Yann Collet"
 	],
+	"importPaths": ["."],
+	"libs":["lz4"],
+	"targetType": "sourceLibrary",
 	"dependencies": {
 	}
 }
